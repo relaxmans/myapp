@@ -1,0 +1,12 @@
+.list {
+  font-size: 20px;
+
+  &__left {
+    color: #000;
+  }
+
+  &__right {
+    color: $primary-color;
+    font-size: 28px;
+  }
+}
